@@ -1,7 +1,9 @@
 # Coursera-Reinforcement-Learning
 
-# reference
+## reference
 https://github.com/LucasBoTang/Coursera_Reinforcement_Learning
+
+## Course Information
 
 Reinforcement Learning
 
